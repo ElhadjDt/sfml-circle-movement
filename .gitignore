@@ -1,0 +1,14 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Build directories
+build/
+Debug/
+Release/
+
+# IDEs
+.vscode/
+.idea/
