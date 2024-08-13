@@ -15,9 +15,11 @@ This project is a simple SFML-based application demonstrating circle movement an
 - SFML 
 - C++
 
-## How to Build
+## Installation
 
 1. Ensure SFML is installed on your system.
-2. Compile the code using your preferred C++ compiler:
+2. Compile the code using your preferred C++ compiler.
+3. Clone the Repository
    ```bash
-   g++ -o circle_movement main.cpp -lsfml-graphics -lsfml-window -lsfml-system
+   git clone https://github.com/ElhadjDt/sfml-circle-movement.git
+cd sfml-circle-movement
