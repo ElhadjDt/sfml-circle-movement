@@ -22,4 +22,4 @@ This project is a simple SFML-based application demonstrating circle movement an
 3. Clone the Repository
    ```bash
    git clone https://github.com/ElhadjDt/sfml-circle-movement.git
-cd sfml-circle-movement
+   cd sfml-circle-movement
